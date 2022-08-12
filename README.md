@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carloshmcfilho
 - 👀 I’m interested in Opensource, Technology, Business intelligence, Investments
-- 🌱 I’m currently learning PowerBI e Analize de dados
+- 🌱 I’m currently learning PowerBI and Data Analytics  
 - 📫 How to reach me carlos@camda.com.br
 
 <!---
