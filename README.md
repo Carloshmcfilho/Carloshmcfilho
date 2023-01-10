@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Carloshmcfilho
-- 👀 I’m interested in Opensource, Technology, Business intelligence, Investments
-- 🌱 I’m currently learning PowerBI and Data Analytics  
-- 📫 How to reach me carlos@camda.com.br
+- 👋 Olá, eu sou @Carloshmcfilho
+- 👀 Sou interessado por Opensource, Technologia, BI, Homebrew e Investimentos
+- 🌱 Atualmente estou estudando Gooddata, PowerBI e Data Analytics  
+- 📫 Para falar comigo carlos@camda.com.br
 
 <!---
 Carloshmcfilho/Carloshmcfilho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
